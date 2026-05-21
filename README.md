@@ -198,9 +198,3 @@ The Streamlit application allows users to:
 # Author
 
 Nilmoni pangas
-
----
-
-# License
-
-This project is for educational and learning purposes.
