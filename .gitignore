@@ -1,0 +1,5 @@
+tfenv/
+__pycache__/
+*.pyc
+models/
+.streamlit/
