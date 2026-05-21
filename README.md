@@ -197,11 +197,7 @@ The Streamlit application allows users to:
 
 # Author
 
-Name: Your Name
-
-Course: B.Tech CSE (AI)
-
-University: University of Lucknow
+Nilmoni pangas
 
 ---
 
